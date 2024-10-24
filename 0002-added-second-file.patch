@@ -1,0 +1,23 @@
+From 0ebf94dc8f12320663ad19a79fffaf1cc8438143 Mon Sep 17 00:00:00 2001
+From: ZyMiK <zymik.official@gmail.com>
+Date: Thu, 24 Oct 2024 17:29:46 +0300
+Subject: [PATCH 2/2] added second file
+
+---
+ file2.txt | Bin 0 -> 28 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..6b4c87602c355d12604f3c8a49fb1b3552b5e685
+GIT binary patch
+literal 28
+icmezWub3f~A(<hcA&()2L4hHSA(J5oD8kFY#Q*?%!Uj<Q
+
+literal 0
+HcmV?d00001
+
+-- 
+2.40.1.windows.1
+
